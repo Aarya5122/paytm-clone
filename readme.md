@@ -32,9 +32,21 @@ https://user-images.githubusercontent.com/72256055/189524645-5e36d4ac-9e64-410f-
 Here I got a chance to explore more about tailwind CSS which is a CSS framework. Understood the work flow of the framework and providing manual values to classes was super cool. We can have almost control on the classes it provides. I explored width, padding, margin, background, position, background image, media-queries and a lot more classes provided by the framework to get this project up and running😃.
 
 ## Live Link
-**[Project in Action 🔥](https://paytm-aarya.netlify.app/)**
+**[Project in Action 🔥](https://paytm-fsjs.netlify.app/)**
 
 
 ## Screenshots
 
-![Shopify](./screenshots/shopify1.png)
+![Paytm](./paytm/paytm.png)
+
+![Paytm](./paytm/paytmm1.png)
+
+![Paytm](./paytm/paytmm2.png)
+
+![Paytm](./paytm/paytmm3.png)
+
+![Paytm](./paytm/paytmm5.png)
+
+![Paytm](./paytm/paytmm6.png)
+
+![Paytm](./paytm/paytmm7.png)
