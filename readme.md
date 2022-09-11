@@ -1,8 +1,8 @@
 # Paytm CLONE PREVIEW
 
-[Paytm-Destop.webm](https://user-images.githubusercontent.com/72256055/189512442-136f17d2-d5c9-4d86-8b6c-d43dc9248e29.webm)
+https://user-images.githubusercontent.com/72256055/189524637-0eab7afc-3c86-4f59-8ce0-7fce1716b0ba.mp4
 
-[Paytm-Mobile.webm](https://user-images.githubusercontent.com/72256055/189512444-de059b17-67fe-41ad-960a-4cbc650848d5.webm)
+https://user-images.githubusercontent.com/72256055/189524645-5e36d4ac-9e64-410f-80e1-d8319979d804.mp4
 
 
 # SHOPIFY CLONE
