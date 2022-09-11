@@ -1,11 +1,11 @@
-# Paytm CLONE PREVIEW
+# PAYTM CLONE PREVIEW
 
 https://user-images.githubusercontent.com/72256055/189524637-0eab7afc-3c86-4f59-8ce0-7fce1716b0ba.mp4
 
 https://user-images.githubusercontent.com/72256055/189524645-5e36d4ac-9e64-410f-80e1-d8319979d804.mp4
 
 
-# SHOPIFY CLONE
+# PAYTM CLONE
 
 **Name**: Aarya Nanndaann Singh M N
 
